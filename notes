@@ -1,0 +1,6 @@
+Add in /etc/hosts -> 127.0.0.1		ambelkac.42.fr
+
+Change docker-compose.yml path to volume mount of mariadb and wordpress
+(dont forget to create the files first)
+
+Reset docker to factory settings
